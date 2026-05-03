@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897256790115",
+    "project_id": "couplefriendly-6b347",
+    "storage_bucket": "couplefriendly-6b347.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897256790115:android:92447c4949f7fcdec68056",
+        "android_client_info": {
+          "package_name": "com.example.couplefriendly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjxEWEfWMwAlIAzYK_OTCgxO_5G1Xh9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
